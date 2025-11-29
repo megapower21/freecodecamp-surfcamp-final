@@ -1,0 +1,8 @@
+# Directories that are not part of the source code
+app_client CLIENT/
+freecodecamp-surfcamp-final/
+server/server1_COMPLETE SERVER-BACK/
+
+# Standard files to ignore (e.g., node modules)
+node_modules/
+*.log
