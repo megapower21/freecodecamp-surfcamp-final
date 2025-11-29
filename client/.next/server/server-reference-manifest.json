@@ -1,0 +1,28 @@
+{
+  "node": {
+    "60683e245e58d676951e8d2026637a244833d643bf": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fdoris_sterling%2FDocuments%2Ffreecodecamp%2Ffreecodecamp-surfcamp-final%2Fclient%2Fsrc%2Fdata%2Factions.ts%22%2C%5B%5B%2260683e245e58d676951e8d2026637a244833d643bf%22%2C%22subscribeAction%22%5D%2C%5B%2260db7ee774134617416ba7558661b30673c929256d%22%2C%22eventsSubscribeAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "60db7ee774134617416ba7558661b30673c929256d": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fdoris_sterling%2FDocuments%2Ffreecodecamp%2Ffreecodecamp-surfcamp-final%2Fclient%2Fsrc%2Fdata%2Factions.ts%22%2C%5B%5B%2260683e245e58d676951e8d2026637a244833d643bf%22%2C%22subscribeAction%22%5D%2C%5B%2260db7ee774134617416ba7558661b30673c929256d%22%2C%22eventsSubscribeAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "6XdfLVNbptvOc5tTHnLORws0gpoJjE8JVWMTsqqV+qs="
+}
